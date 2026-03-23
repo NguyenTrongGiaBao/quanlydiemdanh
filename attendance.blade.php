@@ -41,14 +41,12 @@
 
                 <!-- Sidebar -->
                 <div class="col-md-3 col-lg-2 sidebar">
-                    <h4 class="text-center text-light mb-4">THPT CBD</h4>
+                    <h4 class="text-center text-light mb-4">Cao Đẳng CBD</h4>
                     <a href="{{ route('home') }}">Trang chủ</a>
                     <a href="#">Quản lý giáo viên</a>
                     <a href="#">Quản lý môn học</a>
                     <a href="{{ route('classes') }}">Lớp học</a>
-                    <a href="#">Buổi học</a>
                     <a href="#">Điểm danh</a>
-                    <a href="#">Báo cáo</a>
                     <hr class="text-light">
                     <a href="{{ route('welcome') }}" class="text-danger">Đăng xuất</a>
                 </div>
